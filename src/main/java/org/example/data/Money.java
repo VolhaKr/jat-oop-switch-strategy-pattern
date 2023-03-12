@@ -3,8 +3,8 @@ package org.example.data;
 import java.math.BigDecimal;
 
 public class Money {
-  String outputDescription;
-  BigDecimal sum;
+  private String outputDescription;
+  private BigDecimal sum;
 
   public String getOutputDescription() {
     return outputDescription;

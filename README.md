@@ -1,7 +1,7 @@
 # jat-oop-switch-strategy-pattern
 Analyze the code and refactor it to remove switch expressions (Open-closed Principle)
 
-'''''
+```` java
 public class Employee {
   private String name;
   private String type;
@@ -33,4 +33,4 @@ public class Employee {
 	}
   }
 }
-''''
+````

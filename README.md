@@ -1,5 +1,4 @@
 # jat-oop-switch-strategy-pattern
-# jat-oop-switch-strategy-pattern
 Analyze the code and refactor it to remove switch expressions (Open-closed Principle)
 
 ```` java
